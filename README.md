@@ -1,2 +1,2 @@
 # compsci-2xc3
-All COMPSCI 2XC3 (Computer Science Practice and Experience: Algorithms and Software Design) exercises and assignments (Python). Winter 2026.
+All COMPSCI 2XC3 (Computer Science Practice and Experience: Algorithms and Software Design) exercises and assignments (Python). Implementation of computational solutions to practical problems that combine algorithmic design and analysis with software design principles, through an experiential approach in simulated workplace environments. Communication skills: Technical documentation and presentation. Winter 2026.
